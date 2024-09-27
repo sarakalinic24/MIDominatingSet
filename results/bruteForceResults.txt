@@ -2,61 +2,61 @@ Test Name: test_10_0.3.in
 Result: Minimum independent dominating set found.
 Number of nodes: 2
 Number of iterations: 1023
-Time taken (seconds): 0.0009999275207519531
+Time taken (seconds): 0.001001119613647461
 
 Test Name: test_10_0.5.in
 Result: Minimum independent dominating set found.
 Number of nodes: 3
 Number of iterations: 1023
-Time taken (seconds): 0.00099945068359375
+Time taken (seconds): 0.0009963512420654297
 
 Test Name: test_10_0.7.in
 Result: Minimum independent dominating set found.
 Number of nodes: 2
 Number of iterations: 1023
-Time taken (seconds): 0.0
+Time taken (seconds): 0.0010018348693847656
 
 Test Name: test_15_0.3.in
 Result: Minimum independent dominating set found.
 Number of nodes: 4
 Number of iterations: 32767
-Time taken (seconds): 0.02499985694885254
+Time taken (seconds): 0.037996530532836914
 
 Test Name: test_15_0.5.in
 Result: Minimum independent dominating set found.
 Number of nodes: 2
 Number of iterations: 32767
-Time taken (seconds): 0.025034666061401367
+Time taken (seconds): 0.026035547256469727
 
 Test Name: test_20_0.3.in
 Result: Minimum independent dominating set found.
 Number of nodes: 5
 Number of iterations: 1048575
-Time taken (seconds): 1.5086729526519775
+Time taken (seconds): 1.2747557163238525
 
 Test Name: test_20_0.5.in
 Result: Minimum independent dominating set found.
 Number of nodes: 3
 Number of iterations: 1048575
-Time taken (seconds): 0.68387770652771
+Time taken (seconds): 0.6900112628936768
 
 Test Name: test_25_0.3.in
 Result: Minimum independent dominating set found.
 Number of nodes: 4
 Number of iterations: 33554431
-Time taken (seconds): 29.311216115951538
+Time taken (seconds): 27.905925512313843
 
 Test Name: test_25_0.5.in
 Result: Minimum independent dominating set found.
 Number of nodes: 3
 Number of iterations: 33554431
-Time taken (seconds): 22.975262880325317
+Time taken (seconds): 26.82907271385193
 
 Test Name: test_25_0.7.in
 Result: Minimum independent dominating set found.
 Number of nodes: 2
 Number of iterations: 33554431
-Time taken (seconds): 21.999040365219116
+Time taken (seconds): 23.326812505722046
 
 Test Name: test_30_0.3.in
 Result: Graph too large for brute force.

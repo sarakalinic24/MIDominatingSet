@@ -1,102 +1,119 @@
 Test Name: test_10_0.3.in
 Result: Minimum independent dominating set found.
 Number of nodes: 3
+Fitness value: 0.3333333333333333
 Number of iterations: 1000
-Time taken (seconds): 2.0134363174438477
+Time taken (seconds): 3.700662851333618
 
 Test Name: test_10_0.5.in
 Result: Minimum independent dominating set found.
 Number of nodes: 3
+Fitness value: 0.3333333333333333
 Number of iterations: 1000
-Time taken (seconds): 2.216231346130371
+Time taken (seconds): 2.033705472946167
 
 Test Name: test_10_0.7.in
 Result: Minimum independent dominating set found.
 Number of nodes: 2
+Fitness value: 0.5
 Number of iterations: 1000
-Time taken (seconds): 1.447047472000122
+Time taken (seconds): 1.8351142406463623
 
 Test Name: test_15_0.3.in
 Result: Minimum independent dominating set found.
 Number of nodes: 5
+Fitness value: 0.2
 Number of iterations: 1000
-Time taken (seconds): 3.120633125305176
+Time taken (seconds): 3.7233612537384033
 
 Test Name: test_15_0.5.in
 Result: Minimum independent dominating set found.
-Number of nodes: 3
+Number of nodes: 2
+Fitness value: 0.5
 Number of iterations: 1000
-Time taken (seconds): 2.6440179347991943
+Time taken (seconds): 2.348996162414551
 
 Test Name: test_20_0.3.in
 Result: Minimum independent dominating set found.
-Number of nodes: 6
+Number of nodes: 5
+Fitness value: 0.2
 Number of iterations: 1000
-Time taken (seconds): 4.151056528091431
+Time taken (seconds): 4.191004753112793
 
 Test Name: test_20_0.5.in
 Result: Minimum independent dominating set found.
 Number of nodes: 3
+Fitness value: 0.3333333333333333
 Number of iterations: 1000
-Time taken (seconds): 2.2401633262634277
+Time taken (seconds): 2.5222456455230713
 
 Test Name: test_25_0.3.in
 Result: Minimum independent dominating set found.
 Number of nodes: 5
+Fitness value: 0.2
 Number of iterations: 1000
-Time taken (seconds): 3.7101640701293945
+Time taken (seconds): 4.119374513626099
 
 Test Name: test_25_0.5.in
 Result: Minimum independent dominating set found.
 Number of nodes: 3
+Fitness value: 0.3333333333333333
 Number of iterations: 1000
-Time taken (seconds): 3.3487839698791504
+Time taken (seconds): 3.0171749591827393
 
 Test Name: test_25_0.7.in
 Result: Minimum independent dominating set found.
 Number of nodes: 2
+Fitness value: 0.5
 Number of iterations: 1000
-Time taken (seconds): 2.801701784133911
+Time taken (seconds): 2.957162380218506
 
 Test Name: test_30_0.3.in
 Result: Minimum independent dominating set found.
-Number of nodes: 5
+Number of nodes: 4
+Fitness value: 0.25
 Number of iterations: 1000
-Time taken (seconds): 4.25834059715271
+Time taken (seconds): 3.8562986850738525
 
 Test Name: test_30_0.5.in
 Result: Minimum independent dominating set found.
 Number of nodes: 4
+Fitness value: 0.25
 Number of iterations: 1000
-Time taken (seconds): 3.3775768280029297
+Time taken (seconds): 4.544419527053833
 
 Test Name: test_35_0.3.in
 Result: Minimum independent dominating set found.
-Number of nodes: 4
+Number of nodes: 8
+Fitness value: 0.125
 Number of iterations: 1000
-Time taken (seconds): 3.8744630813598633
+Time taken (seconds): 9.615242719650269
 
 Test Name: test_35_0.5.in
 Result: Minimum independent dominating set found.
-Number of nodes: 3
+Number of nodes: 4
+Fitness value: 0.25
 Number of iterations: 1000
-Time taken (seconds): 3.177640199661255
+Time taken (seconds): 5.25168251991272
 
 Test Name: test_40_0.3.in
 Result: Minimum independent dominating set found.
-Number of nodes: 7
+Number of nodes: 6
+Fitness value: 0.16666666666666666
 Number of iterations: 1000
-Time taken (seconds): 5.141335725784302
+Time taken (seconds): 4.309812545776367
 
 Test Name: test_40_0.5.in
 Result: Minimum independent dominating set found.
 Number of nodes: 4
+Fitness value: 0.25
 Number of iterations: 1000
-Time taken (seconds): 4.387602090835571
+Time taken (seconds): 4.927875757217407
 
 Test Name: test_40_0.7.in
 Result: Minimum independent dominating set found.
 Number of nodes: 3
+Fitness value: 0.3333333333333333
 Number of iterations: 1000
-Time taken (seconds): 3.550161361694336
+Time taken (seconds): 3.945553779602051
 

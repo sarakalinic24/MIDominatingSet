@@ -1,102 +1,119 @@
 Test Name: test_10_0.3.in
 Result: Minimum independent dominating set found.
+Number of nodes: 2
 Fitness value: 0.5
 Number of iterations: 10000
-Time taken (seconds): 1.7507236003875732
+Time taken (seconds): 0.10300064086914062
 
 Test Name: test_10_0.5.in
 Result: Minimum independent dominating set found.
+Number of nodes: 3
 Fitness value: 0.3333333333333333
 Number of iterations: 10000
-Time taken (seconds): 1.7932798862457275
+Time taken (seconds): 0.15777230262756348
 
 Test Name: test_10_0.7.in
 Result: Minimum independent dominating set found.
+Number of nodes: 2
 Fitness value: 0.5
 Number of iterations: 10000
-Time taken (seconds): 1.7919301986694336
+Time taken (seconds): 0.08903789520263672
 
 Test Name: test_15_0.3.in
 Result: Minimum independent dominating set found.
-Fitness value: 0.25
+Number of nodes: 5
+Fitness value: 0.2
 Number of iterations: 10000
-Time taken (seconds): 1.9570252895355225
+Time taken (seconds): 0.1060028076171875
 
 Test Name: test_15_0.5.in
 Result: Minimum independent dominating set found.
+Number of nodes: 2
 Fitness value: 0.5
 Number of iterations: 10000
-Time taken (seconds): 1.7622137069702148
+Time taken (seconds): 0.1385047435760498
 
 Test Name: test_20_0.3.in
 Result: Minimum independent dominating set found.
-Fitness value: 0.2
+Number of nodes: 6
+Fitness value: 0.16666666666666666
 Number of iterations: 10000
-Time taken (seconds): 2.2268576622009277
+Time taken (seconds): 0.2510051727294922
 
 Test Name: test_20_0.5.in
 Result: Minimum independent dominating set found.
-Fitness value: 0.3333333333333333
+Number of nodes: 4
+Fitness value: 0.25
 Number of iterations: 10000
-Time taken (seconds): 2.1161022186279297
+Time taken (seconds): 0.17356228828430176
 
 Test Name: test_25_0.3.in
 Result: Minimum independent dominating set found.
-Fitness value: 0.2
+Number of nodes: 6
+Fitness value: 0.16666666666666666
 Number of iterations: 10000
-Time taken (seconds): 2.537316083908081
+Time taken (seconds): 0.25480175018310547
 
 Test Name: test_25_0.5.in
 Result: Minimum independent dominating set found.
-Fitness value: 0.3333333333333333
+Number of nodes: 4
+Fitness value: 0.25
 Number of iterations: 10000
-Time taken (seconds): 2.077601671218872
+Time taken (seconds): 0.2200028896331787
 
 Test Name: test_25_0.7.in
 Result: Minimum independent dominating set found.
-Fitness value: 0.5
+Number of nodes: 3
+Fitness value: 0.3333333333333333
 Number of iterations: 10000
-Time taken (seconds): 1.9274332523345947
+Time taken (seconds): 0.14763665199279785
 
 Test Name: test_30_0.3.in
 Result: Minimum independent dominating set found.
-Fitness value: 0.25
+Number of nodes: 6
+Fitness value: 0.16666666666666666
 Number of iterations: 10000
-Time taken (seconds): 2.304065704345703
+Time taken (seconds): 0.20403742790222168
 
 Test Name: test_30_0.5.in
 Result: Minimum independent dominating set found.
-Fitness value: 0.3333333333333333
+Number of nodes: 4
+Fitness value: 0.25
 Number of iterations: 10000
-Time taken (seconds): 2.0418057441711426
+Time taken (seconds): 0.16977810859680176
 
 Test Name: test_35_0.3.in
 Result: Minimum independent dominating set found.
-Fitness value: 0.16666666666666666
+Number of nodes: 7
+Fitness value: 0.14285714285714285
 Number of iterations: 10000
-Time taken (seconds): 2.7521352767944336
+Time taken (seconds): 0.37897729873657227
 
 Test Name: test_35_0.5.in
 Result: Minimum independent dominating set found.
+Number of nodes: 4
 Fitness value: 0.25
 Number of iterations: 10000
-Time taken (seconds): 2.3783249855041504
+Time taken (seconds): 0.18199944496154785
 
 Test Name: test_40_0.3.in
 Result: Minimum independent dominating set found.
-Fitness value: 0.14285714285714285
+Number of nodes: 6
+Fitness value: 0.16666666666666666
 Number of iterations: 10000
-Time taken (seconds): 3.058624267578125
+Time taken (seconds): 0.31596803665161133
 
 Test Name: test_40_0.5.in
 Result: Minimum independent dominating set found.
-Fitness value: 0.25
+Number of nodes: 5
+Fitness value: 0.2
 Number of iterations: 10000
-Time taken (seconds): 3.4874048233032227
+Time taken (seconds): 0.2481215000152588
 
 Test Name: test_40_0.7.in
 Result: Minimum independent dominating set found.
-Fitness value: 0.5
+Number of nodes: 3
+Fitness value: 0.3333333333333333
 Number of iterations: 10000
-Time taken (seconds): 3.320099353790283
+Time taken (seconds): 0.2839996814727783
 
