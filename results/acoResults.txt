@@ -1,0 +1,102 @@
+Test Name: test_10_0.3.in
+Result: Minimum independent dominating set found.
+Number of nodes: 2
+Number of iterations: 1000
+Time taken (seconds): 2.384005546569824
+
+Test Name: test_10_0.5.in
+Result: Minimum independent dominating set found.
+Number of nodes: 3
+Number of iterations: 1000
+Time taken (seconds): 1.8568909168243408
+
+Test Name: test_10_0.7.in
+Result: Minimum independent dominating set found.
+Number of nodes: 2
+Number of iterations: 1000
+Time taken (seconds): 1.458031177520752
+
+Test Name: test_15_0.3.in
+Result: Minimum independent dominating set found.
+Number of nodes: 5
+Number of iterations: 1000
+Time taken (seconds): 3.279191255569458
+
+Test Name: test_15_0.5.in
+Result: Minimum independent dominating set found.
+Number of nodes: 2
+Number of iterations: 1000
+Time taken (seconds): 2.5651941299438477
+
+Test Name: test_20_0.3.in
+Result: Minimum independent dominating set found.
+Number of nodes: 5
+Number of iterations: 1000
+Time taken (seconds): 3.2947919368743896
+
+Test Name: test_20_0.5.in
+Result: Minimum independent dominating set found.
+Number of nodes: 3
+Number of iterations: 1000
+Time taken (seconds): 3.017082452774048
+
+Test Name: test_25_0.3.in
+Result: Minimum independent dominating set found.
+Number of nodes: 4
+Number of iterations: 1000
+Time taken (seconds): 3.2871241569519043
+
+Test Name: test_25_0.5.in
+Result: Minimum independent dominating set found.
+Number of nodes: 5
+Number of iterations: 1000
+Time taken (seconds): 3.695397138595581
+
+Test Name: test_25_0.7.in
+Result: Minimum independent dominating set found.
+Number of nodes: 2
+Number of iterations: 1000
+Time taken (seconds): 2.5650768280029297
+
+Test Name: test_30_0.3.in
+Result: Minimum independent dominating set found.
+Number of nodes: 4
+Number of iterations: 1000
+Time taken (seconds): 5.037625551223755
+
+Test Name: test_30_0.5.in
+Result: Minimum independent dominating set found.
+Number of nodes: 4
+Number of iterations: 1000
+Time taken (seconds): 3.450043201446533
+
+Test Name: test_35_0.3.in
+Result: Minimum independent dominating set found.
+Number of nodes: 6
+Number of iterations: 1000
+Time taken (seconds): 4.301648378372192
+
+Test Name: test_35_0.5.in
+Result: Minimum independent dominating set found.
+Number of nodes: 3
+Number of iterations: 1000
+Time taken (seconds): 2.579460859298706
+
+Test Name: test_40_0.3.in
+Result: Minimum independent dominating set found.
+Number of nodes: 5
+Number of iterations: 1000
+Time taken (seconds): 3.450558662414551
+
+Test Name: test_40_0.5.in
+Result: Minimum independent dominating set found.
+Number of nodes: 4
+Number of iterations: 1000
+Time taken (seconds): 3.5979902744293213
+
+Test Name: test_40_0.7.in
+Result: Minimum independent dominating set found.
+Number of nodes: 2
+Number of iterations: 1000
+Time taken (seconds): 2.160249710083008
+
