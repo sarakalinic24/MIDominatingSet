@@ -1,0 +1,102 @@
+Test Name: test_10_0.3.in
+Result: Minimum independent dominating set found.
+Number of nodes: 2
+Number of iterations: 1023
+Time taken (seconds): 0.0009999275207519531
+
+Test Name: test_10_0.5.in
+Result: Minimum independent dominating set found.
+Number of nodes: 3
+Number of iterations: 1023
+Time taken (seconds): 0.00099945068359375
+
+Test Name: test_10_0.7.in
+Result: Minimum independent dominating set found.
+Number of nodes: 2
+Number of iterations: 1023
+Time taken (seconds): 0.0
+
+Test Name: test_15_0.3.in
+Result: Minimum independent dominating set found.
+Number of nodes: 4
+Number of iterations: 32767
+Time taken (seconds): 0.02499985694885254
+
+Test Name: test_15_0.5.in
+Result: Minimum independent dominating set found.
+Number of nodes: 2
+Number of iterations: 32767
+Time taken (seconds): 0.025034666061401367
+
+Test Name: test_20_0.3.in
+Result: Minimum independent dominating set found.
+Number of nodes: 5
+Number of iterations: 1048575
+Time taken (seconds): 1.5086729526519775
+
+Test Name: test_20_0.5.in
+Result: Minimum independent dominating set found.
+Number of nodes: 3
+Number of iterations: 1048575
+Time taken (seconds): 0.68387770652771
+
+Test Name: test_25_0.3.in
+Result: Minimum independent dominating set found.
+Number of nodes: 4
+Number of iterations: 33554431
+Time taken (seconds): 29.311216115951538
+
+Test Name: test_25_0.5.in
+Result: Minimum independent dominating set found.
+Number of nodes: 3
+Number of iterations: 33554431
+Time taken (seconds): 22.975262880325317
+
+Test Name: test_25_0.7.in
+Result: Minimum independent dominating set found.
+Number of nodes: 2
+Number of iterations: 33554431
+Time taken (seconds): 21.999040365219116
+
+Test Name: test_30_0.3.in
+Result: Graph too large for brute force.
+Number of nodes: 0
+Number of iterations: 0
+Time taken (seconds): 0.0
+
+Test Name: test_30_0.5.in
+Result: Graph too large for brute force.
+Number of nodes: 0
+Number of iterations: 0
+Time taken (seconds): 0.0
+
+Test Name: test_35_0.3.in
+Result: Graph too large for brute force.
+Number of nodes: 0
+Number of iterations: 0
+Time taken (seconds): 0.0
+
+Test Name: test_35_0.5.in
+Result: Graph too large for brute force.
+Number of nodes: 0
+Number of iterations: 0
+Time taken (seconds): 0.0
+
+Test Name: test_40_0.3.in
+Result: Graph too large for brute force.
+Number of nodes: 0
+Number of iterations: 0
+Time taken (seconds): 0.0
+
+Test Name: test_40_0.5.in
+Result: Graph too large for brute force.
+Number of nodes: 0
+Number of iterations: 0
+Time taken (seconds): 0.0
+
+Test Name: test_40_0.7.in
+Result: Graph too large for brute force.
+Number of nodes: 0
+Number of iterations: 0
+Time taken (seconds): 0.0
+
